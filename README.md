@@ -1,6 +1,6 @@
 ### John Heath 
 
-    Principle Software Engineer at Software AG (Cambridge). Worked in Finance and Security fields prior to this and long time Geek... involved in cross platform development of the Apama product on Linux, Arm and Windows using C++, Java and Other languages and technologies.
+Principle Software Engineer at Software AG (Cambridge). Worked in Finance and Security fields prior to this and long time Geek... involved in cross platform development of the Apama product on Linux, Arm and Windows using C++, Java and Other languages and technologies.
 
 🔭 (Inside Work) I’m currently working on The Apama product for Software AG, this involves using (to varying degrees)
 
