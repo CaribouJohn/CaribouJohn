@@ -5,8 +5,10 @@ Principle Software Engineer at Software AG (Cambridge). Worked in Finance and Se
 🔭 (Inside Work) I’m currently working on The Apama product for Software AG, this involves using (to varying degrees)
 
 * Docker, Kubernetes, Rancher
+* Python
 * C++ 11 and later 
 * Angular , Typescript 
+* Java (less so these days)
 * Various platforms and technologies (including Azure, AWS, Cumulocity, Prometheus, Kafka)
 
 
