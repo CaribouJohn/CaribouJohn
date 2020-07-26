@@ -18,7 +18,7 @@ Principle Software Engineer at Software AG (Cambridge). Worked in Finance and Se
 * A vs-code extension for Apama Tooling
 * a vs-code extension for Cumulocity 
 
-🌱 I’m currently learning Rust, Deno, Typescript, JavaScript and Angular 
+🌱 I’m currently learning  
 
 * Rust
 * Deno
