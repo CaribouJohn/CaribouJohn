@@ -27,8 +27,7 @@ Principle Software Engineer at Software AG (Cambridge). Worked in Finance and Se
 
 🤔 I’m *always* looking for help with vs-code APIs!
 
-📫 How to reach me jhshopping@heath.mx
-
+📫 How to reach me john@cariboujohn.net
 
 
 <!--
