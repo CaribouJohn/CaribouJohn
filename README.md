@@ -1,32 +1,33 @@
 ### John Heath 
 
-Principle Software Engineer at Software AG (Cambridge). Worked in Finance and Security fields prior to this and long time Geek... involved in cross platform development of the Apama product on Linux, Arm and Windows using C++, Java and Other languages and technologies.
+Principle Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prior to this and long time Geek... involved in development of the Hitachi HNAS product, using C++.
 
-🔭 (Inside Work) I’m currently working on The Apama product for Software AG, this involves using (to varying degrees)
+🔭 (Inside Work) TBD (11th Apr)
 
-* Docker, Kubernetes, Rancher
 * Python
-* C++ 11 and later 
-* Angular , Typescript 
-* Java (less so these days)
-* Various platforms and technologies (including Azure, AWS, Cumulocity, Prometheus, Kafka)
+* C++ 17
+* Various platforms and technologies
 
 
-🔭 (Outside Work) I’m currently working on (Open Source) tooling for Software AG projects 
+🔭 (Previously) I’ve contributed to (Open Source) tooling for Software AG projects 
 
 * A vs-code extension for PySys 
 * A vs-code extension for Apama Tooling
 * a vs-code extension for Cumulocity 
+* Angular , Typescript 
+* Java (less so these days)
+* Rancher
+* Docker, Kubernetes
+
 
 🌱 I’m currently learning / playing with 
 
-* Rust
-* Rust/Wasm, Elm, wasm-pack 
+* C++20 and up
+* C++/Wasm
 * Deno
 * Typescript, Rxjs, React and Angular
 * Node and javascript
-
-🤔 I’m *always* looking for help with vs-code APIs!
+* Docker, Kubernetes
 
 📫 How to reach me john@cariboujohn.net
 
