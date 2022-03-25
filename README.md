@@ -1,6 +1,6 @@
 ### John Heath 
 
-Principle Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prior to this and long time Geek... involved in development of the Hitachi HNAS product, using C++.
+Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prior to this and long time Geek... involved in development of the Hitachi HNAS product, using C++.
 
 🔭 (Inside Work) TBD (11th Apr)
 
