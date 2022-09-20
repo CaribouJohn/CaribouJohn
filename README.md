@@ -1,12 +1,13 @@
 ### John Heath 
 
-Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prior to this and long time Geek... involved in development of the Hitachi HNAS product, using C++.
+Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prior to this and long time Geek... involved in development of the Hitachi HNAS product, currently implementing NFS4.1 protocol, using C++, testing in Ruby / python.
 
-🔭 (Inside Work) TBD (11th Apr)
+🔭 (Inside Work) 
 
-* Python
-* C++ 17
-* Various platforms and technologies
+* Ruby / Python
+* C++ 11-17
+* Git & Bitkeeper 
+* vscode SCM provider for bitkeeper 
 
 
 🔭 (Previously) I’ve contributed to (Open Source) tooling for Software AG projects 
@@ -23,8 +24,8 @@ Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prio
 🌱 I’m currently learning / playing with 
 
 * C++20 and up
+* Rust - Current favorite 
 * C++/Wasm
-* Deno
 * Typescript, Rxjs, React and Angular
 * Node and javascript
 * Docker, Kubernetes
