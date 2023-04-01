@@ -1,14 +1,12 @@
 ### John Heath 
 
-Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prior to this and long time Geek... involved in development of the Hitachi HNAS product, currently implementing NFS4.1 protocol, using C++, testing in Ruby / python.
+Software Engineer at Zellis. Worked in Finance and Security fields prior to this and long time Geek... involved in development of the Zellis PROIV product, using C++.
 
 🔭 (Inside Work) 
 
-* Ruby / Python
 * C++ 11-17
-* Git & Bitkeeper 
-* vscode SCM provider for bitkeeper 
-
+* Git  
+* Azure , yacc/lex, possibly llvm 
 
 🔭 (Previously) I’ve contributed to (Open Source) tooling for Software AG projects 
 
@@ -25,7 +23,6 @@ Software Engineer at Hitachi Vantara. Worked in Finance and Security fields prio
 
 * C++20 and up
 * Rust - Current favorite 
-* C++/Wasm
 * Typescript, Rxjs, React and Angular
 * Node and javascript
 * Docker, Kubernetes
