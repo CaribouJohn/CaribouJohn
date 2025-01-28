@@ -27,8 +27,6 @@ Software Engineer at Zellis. Worked in Finance and Security fields prior to this
 * Node and javascript
 * Docker, Kubernetes
 
-📫 How to reach me john@cariboujohn.net
-
 
 <!--
 **CaribouJohn/CaribouJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
