@@ -4,16 +4,18 @@ Software Engineer at Zellis. Worked in Finance and Security fields prior to this
 
 🔭 (Inside Work) 
 
-* C++ 11-17
+* C++ 11-17, vscode, python, Oracle, Postgres, and MSSQL
 * Git  
-* Azure , yacc/lex, possibly llvm 
+* Azure
+* Agentic workflows and software Engineering
+* Copilot
 
 🔭 (Previously) I’ve contributed to (Open Source) tooling for Software AG projects 
 
 * A vs-code extension for PySys 
 * A vs-code extension for Apama Tooling
 * a vs-code extension for Cumulocity 
-* Angular , Typescript 
+* Typescript, Python
 * Java (less so these days)
 * Rancher
 * Docker, Kubernetes
@@ -22,9 +24,10 @@ Software Engineer at Zellis. Worked in Finance and Security fields prior to this
 🌱 I’m currently learning / playing with 
 
 * C++20 and up
-* Rust - Current favorite 
-* Typescript, Rxjs, React and Angular
-* Node and javascript
+* Zig - Current favorite 
+* Typescript, React
+* Claude Code, Codex, Pi
+* Deepseek and Qwen
 * Docker, Kubernetes
 
 
