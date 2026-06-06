@@ -27,7 +27,8 @@ Software Engineer at Zellis. Worked in Finance and Security fields prior to this
 * Zig - Current favorite 
 * Typescript, React
 * Claude Code, Codex, Pi
-* Deepseek and Qwen
+* Deepseek and Qwen (and the big US models of course)
+* self hosted LLMs and setups - E.G Gemini 12B 
 * Docker, Kubernetes
 
 
